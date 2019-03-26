@@ -34,3 +34,8 @@
 .btn-light {
   background: white;
 }
+
+.yellow {
+  background: yellow;
+  border: solid black;
+}
