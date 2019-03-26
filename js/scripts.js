@@ -22,4 +22,8 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("purple-background");
   });
+  $("#white-background").click(function(){
+    $("body").removeClass();
+    $("body").addClass("white-background");
+  })
 });

@@ -27,3 +27,10 @@
 .btn-secondary {
   background: purple;
 }
+.white-background {
+  background: white;
+}
+
+.btn-light {
+  background: white;
+}
