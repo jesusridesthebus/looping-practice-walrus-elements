@@ -19,3 +19,11 @@
 #first-clickable:hover, #second-clickable:hover, #clickable-walrus:hover {
   text-decoration: underline;
 }
+
+.purple-background {
+  background: purple;
+}
+
+.btn-secondary {
+  background: purple;
+}
