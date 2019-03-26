@@ -1,4 +1,4 @@
-#walrus-showing {
+#walrus-showing, #text-showing, #text-hidden {
   display: none;
 }
 
@@ -8,5 +8,14 @@
 }
 
 .clickable:hover {
+  text-decoration: underline;
+}
+
+#first-clickable, #second-clickable, #clickable-walrus {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#first-clickable:hover, #second-clickable:hover, #clickable-walrus:hover {
   text-decoration: underline;
 }
