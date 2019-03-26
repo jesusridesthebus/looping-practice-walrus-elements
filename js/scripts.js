@@ -17,5 +17,9 @@ $(document).ready(function() {
   $("#second-clickable").click(function(){
     $("#text-hidden").fadeToggle();
     $("#text-showing").show();
-  })
+  });
+  $("#purple-background").click(function() {
+    $("body").removeClass();
+    $("body").addClass("purple-background");
+  });
 });
